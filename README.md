@@ -124,6 +124,6 @@ nyc-transit-graph-analytics/
 
 ## Contributors
 
-This was a collaborative UC Berkeley MIDS data engineering project with Bryce Szarzynski, Matthew Liu, Pratheek Sankeshi, and Aaron Luong.
+This was a collaborative data engineering project with Bryce Szarzynski, Matthew Liu, Pratheek Sankeshi, and Aaron Luong.
 
 My contributions included graph analytics implementation, Neo4j-based network modeling, congestion scenario analysis, shortest path analysis, and interpretation of database architecture use cases.

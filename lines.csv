@@ -1,0 +1,628 @@
+line,sequence,station
+1,1,Van Cortlandt Park–242 St
+1,2,238 St
+1,3,231 St
+1,4,Marble Hill–225 St
+1,5,215 St
+1,6,207 St
+1,7,Dyckman St
+1,8,191 St
+1,9,181 St
+1,10,168 St
+1,11,157 St
+1,12,145 St
+1,13,137 St–City College
+1,14,125 St
+1,15,116 St–Columbia University
+1,16,Cathedral Pkwy (110 St)
+1,17,103 St
+1,18,96 St
+1,19,86 St
+1,20,79 St
+1,21,72 St
+1,22,66 St–Lincoln Center
+1,23,59 St–Columbus Circle
+1,24,50 St
+1,25,Times Sq–42 St
+1,26,34 St–Penn Station
+1,27,28 St
+1,28,23 St
+1,29,18 St
+1,30,14 St
+1,31,Christopher St–Stonewall
+1,32,Houston St
+1,33,Canal St
+1,34,Franklin St
+1,35,Chambers St
+1,36,WTC Cortlandt
+1,37,Rector St
+1,38,South Ferry
+2,1,Wakefield-241 St
+2,2,Nereid Av
+2,3,233 St
+2,4,225 St
+2,5,219 St
+2,6,Gun Hill Rd
+2,7,Burke Av
+2,8,Allerton Av
+2,9,Pelham Pkwy
+2,10,Bronx Park East
+2,11,E 180 St
+2,12,West Farms Sq-E Tremont Av
+2,13,174 St
+2,14,Freeman St
+2,15,Simpson St
+2,16,Intervale Av
+2,17,Prospect Av
+2,18,Jackson Av
+2,19,3 Av-149 St
+2,20,149 St–Grand Concourse
+2,21,135 St (Lenox Av)
+2,22,125 St (Lenox Av)
+2,23,116 St (Lenox Av)
+2,24,110 St–Malcolm X Plaza
+2,25,96 St & Broadway
+2,26,72 St & Broadway
+2,27,Times Sq–42 St
+2,28,34 St–Penn Station
+2,29,14 St
+2,30,Chambers St
+2,31,Park Place
+2,32,Fulton St
+2,33,Wall St
+2,34,Clark St
+2,35,Borough Hall
+2,36,Hoyt St
+2,37,Nevins St
+2,38,Atlantic Av–Barclays Ctr
+2,39,Bergen St
+2,40,Grand Army Plaza
+2,41,Eastern Pkwy–Brooklyn Museum
+2,42,Franklin Av–Medgar Evers College
+2,43,President St–Medgar Evers College
+2,44,Sterling St
+2,45,Winthrop St
+2,46,Church Av
+2,47,Beverly Rd
+2,48,Newkirk Av–Little Haiti
+2,49,Flatbush Av–Brooklyn College
+3,1,Harlem-148 St
+3,2,145 St
+3,3,135 St
+3,4,125 St
+3,5,116 St
+3,6,110 St-Malcolm X Plaza
+3,7,96 St
+3,8,72 St
+3,9,Times Square-42 St
+3,10,34 St-Penn Station
+3,11,14 St
+3,12,Chambers St
+3,13,Park Place
+3,14,Fulton St
+3,15,Wall St
+3,16,Clark St
+3,17,Borough Hall
+3,18,Hoyt St
+3,19,Nevins St
+3,20,Atlantic Av-Barclays Ctr
+3,21,Bergen St
+3,22,Grand Army Plaza
+3,23,Eastern Parkway-Brooklyn Museum
+3,24,Franklin Av-Medgar Evers College
+3,25,Nostrand Av
+3,26,Kingston Av
+3,27,Crown Heights-Utica Av
+3,28,Sutter Ave-Rutland Rd
+3,29,Saratoga Av
+3,30,Rockaway Av
+3,31,Junius St
+3,32,Pennsylvania Av
+3,33,Van Siclen Av
+3,34,New Lots Av
+4,1,Woodlawn
+4,2,Mosholu Pkwy
+4,3,Bedford Pk Blvd-Lehman College
+4,4,Kingsbridge Rd
+4,5,Fordham Rd
+4,6,183 St
+4,7,Burnside Av
+4,8,176 St
+4,9,Mt Eden Av
+4,10,170 St
+4,11,167 St
+4,12,161 St-Yankee Stadium
+4,13,149 St-Grand Concourse
+4,14,138 St-Grand Concourse
+4,15,125 St
+4,16,86 St
+4,17,59 St
+4,18,Grand Central-42 St
+4,19,14 St-Union Sq
+4,20,Brooklyn Bridge-City Hall
+4,21,Fulton St
+4,22,Wall St
+4,23,Bowling Green
+4,24,Borough Hall
+4,25,Nevins St
+4,26,Atlantic Av-Barclays Ctr
+4,27,Franklin Av-Medgar Evers College
+4,28,Crown Heights-Utica Av
+5,1,Eastchester-Dyre Av
+5,2,Baychester Av
+5,3,Gun Hill Rd
+5,4,Pelham Pkwy
+5,5,Morris Park
+5,6,E 180 St
+5,7,West Farms Sq-E Tremont Av
+5,8,174 St
+5,9,Freeman St
+5,10,Simpson St
+5,11,Intervale Av
+5,12,Prospect Av
+5,13,Jackson Av
+5,14,3 Av-149 St
+5,15,149 St-Grand Concourse
+5,16,138 St-Grand Concourse
+5,17,125 St
+5,18,86 St
+5,19,59 St
+5,20,Grand Central-42 St
+5,21,14 St-Union Sq
+5,22,Brooklyn Bridge-City Hall
+5,23,Fulton St
+5,24,Wall St
+5,25,Bowling Green
+5,26,Nereid Av
+5,27,233 St
+5,28,225 St
+5,29,219 St
+5,30,Burke Av
+5,31,Allerton Av
+5,32,Bronx Park East
+5,33,Borough Hall
+5,34,Nevins St
+5,35,Atlantic Av-Barclays Ctr
+5,36,Franklin Av-Medgar Evers College
+5,37,President St-Medgar Evers College
+5,38,Sterling St
+5,39,Winthrop St
+5,40,Church Av
+5,41,Beverly Rd
+5,42,Newkirk Av-Little Haiti
+5,43,Flatbush Av-Brooklyn College
+6,1,Pelham Bay Park
+6,2,Buhre Av
+6,3,Middletown Rd
+6,4,Westchester Sq-East Tremont Av
+6,5,Zerega Av
+6,6,Castle Hill Av
+6,7,Parkchester
+6,8,St Lawrence Av
+6,9,Morrison Av-Soundview
+6,10,Elder Av
+6,11,Whitlock Av
+6,12,Hunts Point Av
+6,13,Longwood Av
+6,14,E 149 St
+6,15,E 143 St-Mary's St
+6,16,Cypress Av
+6,17,Brook Av
+6,18,3 Av-138 St
+6,19,125 St
+6,20,116 St
+6,21,110 St
+6,22,103 St
+6,23,96 St
+6,24,86 St
+6,25,77 St
+6,26,68 St-Hunter College
+6,27,59 St
+6,28,51 St
+6,29,Grand Central-42 St
+6,30,33 St
+6,31,28 St
+6,32,23 St
+6,33,14 St-Union Sq
+6,34,Astor Pl
+6,35,Bleeker St
+6,36,Spring St
+6,37,Canal St
+6,38,Brooklyn Bridge-City Hall
+7,1,Flushing-Main St
+7,2,Mets-Willets Point
+7,3,111 St
+7,4,103 St-Corona Plaza
+7,5,Junction Blvd
+7,6,90 St-Elmhurst Av
+7,7,82 St-Jackson Hts
+7,8,74 St-Broadway
+7,9,69 St
+7,10,61 St-Woodside
+7,11,52 St
+7,12,46 St-Bliss St
+7,13,40 St-Lowery St
+7,14,33 St-Rawson St
+7,15,Queensboro Plaza
+7,16,Court Sq
+7,17,Hunters Point Av
+7,18,Vernon Blvd-Jackson Av
+7,19,Grand Central-42 St
+7,20,5 Av
+7,21,Times Sq-42 St
+7,22,34 St-Hudson Yards
+A,1,Inwood-207 St
+A,2,Dyckman St
+A,3,190 St
+A,4,181 St
+A,5,175 St
+A,6,168 St
+A,7,145 St
+A,8,125 St
+A,9,59 St-Columbus Circle
+A,10,42 St-Port Authority Bus Terminal
+A,11,34 St-Penn Station
+A,12,14 St
+A,13,W 4 St-Washington Sq
+A,14,Canal St
+A,15,Chambers St
+A,16,Fulton St
+A,17,High St
+A,18,Jay St-MetroTech
+A,19,Hoyt-Schermerhorn
+A,20,Nostrand Av
+A,21,Utica Av
+A,22,Broadway Junction
+A,23,Euclid Av
+A,24,Grant Av
+A,25,80 St
+A,26,88 St
+A,27,Rockaway Blvd
+A,28,104 St
+A,29,111 St
+A,30,Ozone Pk-Lefferts Boulevard
+A,31,Aqueduct Racetrack
+A,32,Aqueduct-North Conduit Av
+A,33,Howard Beach-JFK Airport
+A,34,Broad Channel
+A,35,Beach 67 St
+A,36,Beach 60 St
+A,37,Beach 44 St
+A,38,Beach 36 St
+A,39,Beach 25 St
+A,40,Far Rockaway-Mott Av
+A,41,Broad Channel
+A,42,Beach 90 St
+A,43,Beach 98 St
+A,44,Beach 105 St
+A,45,Rockaway Park-Beach 116 St
+C,1,168 St
+C,2,163 St-Amsterdam Av
+C,3,155 St
+C,4,145 St
+C,5,135 St
+C,6,125 St
+C,7,116 St
+C,8,Cathedral Pkwy (110 St)
+C,9,103 St
+C,10,96 St
+C,11,86 St
+C,12,81 St-Museum of Natural History
+C,13,72 St
+C,14,59 St-Columbus Circle
+C,15,50 St
+C,16,42 St-Port Authority Bus Terminal
+C,17,34 St-Penn Station
+C,18,23 St
+C,19,14 St
+C,20,W 4-Washington Sq
+C,21,Spring St
+C,22,Canal St
+C,23,Chambers St
+C,24,Fulton St
+C,25,High St
+C,26,Jay St-MetroTech
+C,27,Hoyt-Schermerhorn
+C,28,Lafayette Av
+C,29,Clinton-Washington Avs
+C,30,Franklin Av
+C,31,Nostrand Av
+C,32,Kingston-Throop Avs
+C,33,Utica Av
+C,34,Ralph Av
+C,35,Rockaway Av
+C,36,Broadway Junction
+C,37,Liberty Av
+C,38,Van Siclen Av
+C,39,Shepherd Av
+C,40,Euclid Av
+D,1,Norwood-205 St
+D,2,Bedford Park Blvd
+D,3,Kingsbridge Rd
+D,4,Fordham Rd
+D,5,182-183 Sts
+D,6,Tremont Av
+D,7,174-175 Sts
+D,8,170 St
+D,9,167 St
+D,10,161 St-Yankee Stadium
+D,11,155 St
+D,12,145 St
+D,13,125 St
+D,14,59 St-Columbus Circle
+D,15,7 Av
+D,16,47-50 Sts-Rockefeller Ctr
+D,17,42 St-Bryant Pk
+D,18,34 St-Herald Sq
+D,19,W 4 St-Washington Sq
+D,20,Broadway-Lafayette St
+D,21,Grand St
+D,22,Atlantic Av-Barclays Ctr
+D,23,36 St
+D,24,9 Av
+D,25,Fort Hamilton Pkwy
+D,26,50 St
+D,27,55 St
+D,28,62 St
+D,29,71 St
+D,30,79 St
+D,31,18 Av
+D,32,20 Av
+D,33,Bay Pkwy
+D,34,25 Av
+D,35,Bay-50 St
+D,36,Coney Island-Stillwell Av
+E,1,Jamaica Center–Parsons/Archer
+E,2,Sutphin Blvd–Archer Av–JFK Airport
+E,3,Jamaica–Van Wyck
+E,4,Briarwood
+E,5,Kew Gardens–Union Tpke
+E,6,75 Av
+E,7,Forest Hills–71 Av
+E,8,Jackson Hts–Roosevelt Av
+E,9,Queens Plaza
+E,10,Court Sq–23 St
+E,11,Lexington Av/53 St
+E,12,5 Av/53 St
+E,13,7 Av
+E,14,50 St
+E,15,42 St–Port Authority Bus Terminal
+E,16,34 St–Penn Station
+E,17,23 St
+E,18,14 St
+E,19,W 4 St–Washington Sq
+E,20,Spring St
+E,21,Canal St
+E,22,World Trade Center
+G,1,Court Sq
+G,2,21 St
+G,3,Greenpoint Av
+G,4,Nassau Av
+G,5,Metropolitan Av
+G,6,Broadway
+G,7,Flushing Av
+G,8,Myrtle–Willoughby Avs
+G,9,Bedford–Nostrand Avs
+G,10,Classon Av
+G,11,Clinton–Washington Avs
+G,12,Fulton St
+G,13,Hoyt–Schermerhorn
+G,14,Bergen St
+G,15,Carroll St
+G,16,Smith–9 Sts
+G,17,4 Av–9 Sts
+G,18,7 Av
+G,19,15 St–Prospect Park
+G,20,Fort Hamilton Pkwy
+G,21,Church Av
+J,1,Jamaica Center–Parsons/Archer
+J,2,Sutphin Blvd–Archer Av–JFK Airport
+J,3,121 St
+J,4,111 St
+J,5,104 St
+J,6,Woodhaven Blvd
+J,7,85 St–Forest Pkwy
+J,8,75 St–Elderts Ln
+J,9,Cypress Hills
+J,10,Crescent St
+J,11,Norwood Av
+J,12,Cleveland St
+J,13,Van Siclen Av
+J,14,Alabama Av
+J,15,Broadway Junction
+J,16,Chauncey St
+J,17,Halsey St
+J,18,Gates Av
+J,19,Kosciuszko St
+J,20,Myrtle Av
+J,21,Flushing Av
+J,22,Lorimer St
+J,23,Hewes St
+J,24,Marcy Av
+J,25,Delancey St–Essex St
+J,26,Bowery
+J,27,Canal St
+J,28,Chambers St
+J,29,Fulton St
+J,30,Broad St
+L,1,8 Av
+L,2,6 Av
+L,3,14 St–Union Sq
+L,4,3 Av
+L,5,1 Av
+L,6,Bedford Av
+L,7,Lorimer St
+L,8,Graham Av
+L,9,Grand St
+L,10,Montrose Av
+L,11,Morgan Av
+L,12,Jefferson St
+L,13,DeKalb Av
+L,14,Myrtle–Wyckoff Avs
+L,15,Halsey St
+L,16,Wilson Av
+L,17,Bushwick Av–Aberdeen St
+L,18,Broadway Junction
+L,19,Atlantic Av
+L,20,Sutter Av
+L,21,Livonia Av
+L,22,New Lots Av
+L,23,East 105 St
+L,24,Canarsie–Rockaway Pkwy
+N,1,Astoria–Ditmars Blvd
+N,2,Astoria Blvd
+N,3,30 Av
+N,4,Broadway (Astoria)
+N,5,36 Av
+N,6,39 Av
+N,7,Queensboro Plaza
+N,8,Lexington Av/59 St
+N,9,5 Av/59 St
+N,10,57 St–7 Av
+N,11,49 St
+N,12,Times Sq–42 St
+N,13,34 St–Herald Sq
+N,14,14 St–Union Sq
+N,15,Canal St
+N,16,Atlantic Av–Barclays Ctr
+N,17,36 St
+N,18,59 St
+N,19,8 Av (Brooklyn)
+N,20,Fort Hamilton Pkwy
+N,21,New Utrecht Av
+N,22,18 Av
+N,23,20 Av
+N,24,Bay Pkwy
+N,25,Kings Hwy
+N,26,Avenue U
+N,27,86 St
+N,28,Coney Island–Stillwell Av
+Q,1,96 St
+Q,2,86 St
+Q,3,72 St
+Q,4,Lexington Av/63 St
+Q,5,57 St–7 Av
+Q,6,Times Sq–42 St
+Q,7,34 St–Herald Sq
+Q,8,14 St–Union Sq
+Q,9,Canal St
+Q,10,DeKalb Av
+Q,11,Atlantic Av–Barclays Ctr
+Q,12,7 Av
+Q,13,Prospect Park
+Q,14,Parkside Av
+Q,15,Church Av
+Q,16,Beverly Rd
+Q,17,Cortelyou Rd
+Q,18,Newkirk Plaza
+Q,19,Avenue H
+Q,20,Avenue J
+Q,21,Avenue M
+Q,22,Kings Hwy
+Q,23,Avenue U
+Q,24,Neck Rd
+Q,25,Sheepshead Bay
+Q,26,Brighton Beach
+Q,27,Ocean Pkwy
+Q,28,W 8 St–NY Aquarium
+Q,29,Coney Island–Stillwell Av
+R,1,Forest Hills–71 Av
+R,2,67 Av
+R,3,63 Dr–Rego Park
+R,4,Woodhaven Blvd
+R,5,Grand Av
+R,6,Elmhurst Av
+R,7,Jackson Hts–Roosevelt Av
+R,8,65 St
+R,9,Northern Blvd
+R,10,46 St
+R,11,Steinway St
+R,12,36 St
+R,13,Queens Plaza
+R,14,Lexington Av/59 St
+R,15,5 Av/59 St
+R,16,57 St–7 Av
+R,17,49 St
+R,18,Times Sq–42 St
+R,19,34 St–Herald Sq
+R,20,28 St
+R,21,23 St
+R,22,14 St–Union Sq
+R,23,8 St–NYU
+R,24,Prince St
+R,25,Canal St
+R,26,City Hall
+R,27,Cortlandt St
+R,28,Rector St
+R,29,Whitehall St–South Ferry
+R,30,Court St
+R,31,Jay St–MetroTech
+R,32,DeKalb Av
+R,33,Atlantic Av–Barclays Ctr
+R,34,Union St
+R,35,4 Av–9 St
+R,36,Prospect Av
+R,37,25 St
+R,38,36 St
+R,39,45 St
+R,40,53 St
+R,41,59 St
+R,42,Bay Ridge Av
+R,43,77 St
+R,44,86 St
+R,45,Bay Ridge–95 St
+S,1,Times Sq–42 St
+S,2,Grand Central–42 St
+S,3,Franklin Av
+S,4,Park Place
+S,5,Botanic Garden
+S,6,Prospect Park
+S,7,Broad Channel
+S,8,Beach 90 St
+S,9,Beach 98 St
+S,10,Beach 105 St
+S,11,Rockaway Park–Beach 116 St
+W,1,Astoria–Ditmars Blvd
+W,2,Astoria Blvd
+W,3,30 Av
+W,4,Broadway
+W,5,36 Av
+W,6,39 Av
+W,7,Queensboro Plaza
+W,8,Lexington Av/59 St
+W,9,5 Av/59 St
+W,10,57 St–7 Av
+W,11,49 St
+W,12,Times Sq–42 St
+W,13,34 St–Herald Sq
+W,14,28 St
+W,15,23 St
+W,16,14 St–Union Sq
+W,17,8 St–NYU
+W,18,Prince St
+W,19,Canal St
+W,20,City Hall
+W,21,Cortlandt St
+W,22,Rector St
+W,23,Whitehall St–South Ferry
+Z,1,Jamaica Center–Parsons/Archer
+Z,2,Sutphin Blvd–Archer Av–JFK Airport
+Z,3,121 St
+Z,4,104 St
+Z,5,Woodhaven Blvd
+Z,6,75 St–Elderts Ln
+Z,7,Crescent St
+Z,8,Norwood Av
+Z,9,Van Siclen Av
+Z,10,Alabama Av
+Z,11,Broadway Junction
+Z,12,Chauncey St
+Z,13,Gates Av
+Z,14,Myrtle Av
+Z,15,Marcy Av
+Z,16,Delancey St–Essex St
+Z,17,Bowery
+Z,18,Canal St
+Z,19,Chambers St
+Z,20,Fulton St
+Z,21,Broad St

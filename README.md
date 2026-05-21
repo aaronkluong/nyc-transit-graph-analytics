@@ -122,19 +122,6 @@ nyc-transit-graph-analytics/
     └── architecture_diagram.png
 ```
 
-## How to Run
-
-The notebook was designed for a course environment using PostgreSQL and Neo4j.
-
-To reproduce the core workflow:
-
-1. Start PostgreSQL and Neo4j services.
-2. Place `stations.csv`, `lines.csv`, and `distances.csv` in the same directory as `Neo4j.ipynb`.
-3. Run `Neo4j.ipynb` in order.
-4. Build the station graph in Neo4j.
-5. Run shortest path, betweenness centrality, and Louvain community detection analyses.
-6. Compare baseline, +20% ridership, and +40% ridership congestion scenarios.
-
 ## Contributors
 
 This was a collaborative UC Berkeley MIDS data engineering project with Bryce Szarzynski, Matthew Liu, Pratheek Sankeshi, and Aaron Luong.
